@@ -85,31 +85,26 @@ A collection of graph algorithms solving different computational problems:
 
 2. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/Algorithmic-Applications.git
-   cd Algorithmic-Applications
+   git clone https://github.com/yourusername/Advanced-Algorithms.git
+   cd Act1
    ```
 
-3.	Compile and run each activity:
-	•	Navigate to the corresponding folder, e.g., Activities/Act1/, and run:
+3. Compile and run each activity:
    ```bash
-   g++ Activity1.cpp -o Activity1
-   ./Activity1
+   g++ main.cpp -o main
+   ./main
    ```
 
 ## **Usage**
 
 Each activity follows a simple input-output model:
-	1.	Run the program: Compile and execute the corresponding C++ file.
-	2.	Provide input (if required): Some programs expect standard input (e.g., arrays, graphs).
-	3.	Review output: The results will be displayed on the console or written to a file.
-
-Example (Running Activity 1 - Merge Sort):
-
-// Compile
-g++ Activities/Act1/Activity1.cpp -o Activity1
-// Execute and provide input
-./Activity1
+1. Run the program: Compile and execute the corresponding C++ file.
+2. Provide input (if required): Some programs expect standard input (e.g., arrays, graphs).
+3. Review output: The results will be displayed on the console or written to a file.
 
 ## **License**
 
 This project is licensed under the MIT License.
+
+## **Status Badges**
+[![Build Status](https://img.shields.io/badge/status-active-brightgreen)](#) [![Code Coverage](https://img.shields.io/badge/coverage-80%25-yellowgreen)](#)
